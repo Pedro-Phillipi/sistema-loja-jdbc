@@ -1,0 +1,12 @@
+# Ignorar arquivos compilados
+bin/
+*.class
+
+# Ignorar arquivos de configuração do Eclipse/IDE
+.settings/
+.classpath
+.project
+.vscode/
+
+# Ignorar arquivos do sistema
+.DS_Store
